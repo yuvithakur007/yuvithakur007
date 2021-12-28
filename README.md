@@ -25,7 +25,7 @@
 <a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>  
 
 ### You can connect with me from _here_ 📧:
->[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
+>[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/yuvi-singh07/)
 [![Gmail Badge](https://img.shields.io/badge/01yuvisingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:01yuvisingh@gmail.com)
 
 
