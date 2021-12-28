@@ -1,7 +1,7 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Yuvraj!</h1>
 
 :mortar_board: I am a sophomore at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.           
-:telescope: I am Currently learning Backend Web-dev.                                                                       
+:telescope: I am Currently learning React-JS.                                                                       
 :thought_balloon: Ask me about Frontend Web-Dev.    
 :earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.    
 -
