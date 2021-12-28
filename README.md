@@ -5,7 +5,7 @@
 :thought_balloon: Ask me about Frontend Web-Dev.    
 :earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.    
 
- <h1 align="center"> My skills! : </h1>
+ <h1> My skills! : </h1>
 
 ##  **Languages:** 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
