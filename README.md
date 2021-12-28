@@ -3,9 +3,8 @@
 :telescope: I am Currently learning Backend Web-dev.                                      
 :earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.                                     
 :thought_balloon: Ask me about Frontend Web-Dev.     
-📫 How to reach me:   
 
-## "My skills! :
+# **My skills!** :
 
 ##  **Languages:** 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -21,14 +20,11 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 
-## **Databases:**
-<a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>  
+<!-- ## **Databases:**
+<a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>   -->
 
-### You can connect with me from _here_ 📧:
+## You can connect with me from _here_ 📧:
 >[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/yuvi-singh07/)
 [![Gmail Badge](https://img.shields.io/badge/01yuvisingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:01yuvisingh@gmail.com)
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-### <p align="center"> Congratulations, you found me on GitHub ! </p>
