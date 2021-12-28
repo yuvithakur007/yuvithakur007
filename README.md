@@ -1,8 +1,9 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Yuvraj!</h1>
 
-:telescope: I am Currently learning Backend Web-dev.                                      
-:earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.                                     
-:thought_balloon: Ask me about Frontend Web-Dev.     
+:mortar_board: I am a sophomore at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.           
+:telescope: I am Currently learning Backend Web-dev.                                                                       
+:thought_balloon: Ask me about Frontend Web-Dev.    
+:earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.    
 
 # **My skills!** :
 
@@ -22,6 +23,11 @@
 
 <!-- ## **Databases:**
 <a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>   -->
+
+<h2 align = "ceter" > :man_technologist: My Stats: </h2>
+
+![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvithakur007&show_icons=true&theme=radical)
+
 
 ## You can connect with me from _here_ 📧:
 >[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/yuvi-singh07/)
