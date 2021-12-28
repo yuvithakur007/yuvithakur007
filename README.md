@@ -29,7 +29,8 @@
 
 ![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvithakur007&show_icons=true&theme=radical)
 
-## You can connect with me from _here_ :smiley::
+<h1><p><i>You can connect with me from here <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30px"/></i></p></h1>
+
 >[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/yuvi-singh07/)
 [![Gmail Badge](https://img.shields.io/badge/01yuvisingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:01yuvisingh@gmail.com)
 
