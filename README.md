@@ -65,6 +65,9 @@
  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvithakur007&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
+<div>
+<img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=yuvithakur007&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
+</div>
 
 <h1><p>You can connect with me from here<i> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30px"/></i></p></h1>
 
