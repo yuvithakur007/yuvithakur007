@@ -48,27 +48,22 @@
   ![VisitorCount!!😊](https://profile-counter.glitch.me/{yuvithakur007}/count.svg) 
   
 </p>
-
-<h2 align="center">Github Activity📊 !! </h2>   
-
     
+<h2 align="center">Github Activity📊 !! 😊 </h2>   
+   
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yuvithakur007&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvithakur007&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvithakur007&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
- 
+   <tr><td>😀</td></tr>
 </table>
     
-  
- <h2 align="center">Productivity Stats📈 !! </h2>
+    
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
- <table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvithakur007&theme=monokai"  display=block width=100% height=auto  alt="1"    </td>
-  </tr> 
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvithakur007&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 
 <h1><p>You can connect with me from here<i> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30px"/></i></p></h1>
