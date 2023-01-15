@@ -48,17 +48,20 @@
   ![VisitorCount!!😊](https://profile-counter.glitch.me/{yuvithakur007}/count.svg) 
   
 </p>
-    
+   
 <h2 align="center">Github Activity📊 !! 😊 </h2>   
- 
- <div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=yuvithakur007&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Yuvi's+Github+Stats" alt="Yuvi's Github stats" />
-             
-<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=yuvithakur007&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
-</div>
-<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvithakur007&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yuvithakur007&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvithakur007&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvithakur007&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+   <tr><td>😀</td></tr>
+</table>
     
- <h2 align="center">Yuvi's Productivity Stats📈 !! 😊</h2>
+    
+<!--  <h2 align="center">Yuvi's Productivity Stats📈 !! 😊</h2> -->
 
 <div>
 <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=yuvithakur007&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=&color=969696&area=true&area_color=FC6401">
