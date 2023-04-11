@@ -2,21 +2,23 @@
 
 ## **ABOUT ME :**
 
->:mortar_board: I am a sophomore at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.  
+>:mortar_board: I am a student at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.  
          
 >:telescope: I am Currently learning React-JS.    
 
 >:thought_balloon: Ask me about Frontend Web-Dev.  
 
->:earth_asia: I am Exploring Open source projects while building on Web-Dev and C++.  
+>:earth_asia: I am Exploring Open source projects while building on Web-Dev.  
 
 ## Positions :
 
 > Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 
+> Open Source Contribution at **@Hacktoberfest'22**
+
 > Open Source Contribution at **@GSWoC'21**
 
-> Web Developer at **@Antrix Club**
+> Web Developer at **@Antrix Club'21**
 
 
  <h1> My skills! : </h1>
@@ -54,8 +56,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yuvithakur007&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvithakur007&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
+
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvithakur007&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    <tr><td>😀</td></tr>
 </table>
