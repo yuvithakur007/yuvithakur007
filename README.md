@@ -1,5 +1,7 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Yuvraj Singh!</h1>
 
+<img align="center" src="profilelinked.jpeg">
+
 ## **ABOUT ME :**
 
 >:mortar_board: I am a student at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.  
@@ -38,6 +40,11 @@
 > ## **Framework:**
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><br>
+
+> ## **Databases:**
+
+<a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 > ## **Tools:**
 
