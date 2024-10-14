@@ -3,7 +3,7 @@
 ![Yuvraj's Banner](profilelinked.jpeg)
 
 ## 🎓 About Me:
-I'm a final year Computer Science Engineering student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source – I've touched every stone to ensure it's not unturned.
+Hi, I am Yuvraj Singh from Varanasi Uttar Pradesh. Currently I have completed my B.Tech degree in Computer Science and Engineering from **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**, where my journey in tech took flight. From learning the ropes of frontend development with React-JS to diving deep into the endless ocean of open source – I've touched every stone to ensure it's not unturned.
 
 ### ✨ My Mantra
 "Innovate, collaborate, and electrify – that's how I roll."
@@ -18,20 +18,20 @@ I'm a final year Computer Science Engineering student at **[Vellore Institute of
 - A **3-star rating on HackerRank** and over **250+ problems solved on LeetCode**.
 
 ## 🔨 Technical Toolkit
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Frameworks:** Node.js, Express.js, React.js
-- **Databases:** MongoDB, Firebase, MySQL
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Hosting Services:** Vercel, Render, GitHub Pages
+- **Languages:** JavaScript, HTML/CSS and Java
+- **Frameworks:** Node.js, Express.js, React.js, Next.js
+- **Databases:** MongoDB, PostgresSql
+- **Tools:** Linux OS, VS Code, Postman, Jira, Git/GitHub and Gitlab
 
 ## 🌐 Open Source & Community
-- Engaged with **Girlscript Winter of Foundation** to improve their web interface.
-- Led web development for **ANTERIX Club**'s events, ensuring creativity and promptness.
+- **Girlscript Winter of Foundation** : Resolved two styling issues, improving the website's look and user experience
+- **Hacktoberfest** : Demonstrated expertise by proposing and implementing 6 pull requests optimising performance and scalability of Searching and Sorting algorithms
+- **Web Developer at ANTERIX Club** : Developed and handled event-based web pages in Advitya’22, enforcing qualities of commitment towards work and deadline
 
 ## 🤝 Connect with Me
 Feel the pulse of my contributions and let's collaborate to create something exceptional.
 
-[![Linkedin Badge](https://img.shields.io/badge/-yuvi.singh07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuvi-singh07/)](https://www.linkedin.com/in/yuvi-singh07/)
+[![Linkedin Badge](https://img.shields.io/badge/-yuvithakur007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuvithakur007/)](https://www.linkedin.com/in/yuvithakur007/)
 [![Gmail Badge](https://img.shields.io/badge/-01yuvisingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:01yuvisingh@gmail.com)](mailto:01yuvisingh@gmail.com)
 
 ## 📈 Github Activity
